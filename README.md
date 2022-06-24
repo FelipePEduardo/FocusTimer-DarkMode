@@ -6,7 +6,7 @@
 
 ### Sobre
 
-<p>Este é o FocusTimer-DarkMode!! O projeto foi feito com o intuito de estudar mais conceitos sobre a DOM no java script, com muitas funcionalidas para poder aproveitar!</p>
+<p>Este é o FocusTimer-DarkMode!! O projeto foi feito com o intuito de estudar mais conceitos sobre a DOM no javascript, com muitas funcionalidades para poder aproveitar!</p>
 
 ## Tecnologias utilizadas
 
